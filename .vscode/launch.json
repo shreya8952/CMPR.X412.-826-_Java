@@ -1,0 +1,100 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Assignment.Palindrome",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Assignment.Test",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPrime",
+            "request": "launch",
+            "mainClass": "CheckPrime",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Assignment.Prime",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPrime",
+            "request": "launch",
+            "mainClass": "Assignment.CheckPrime",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumbers",
+            "request": "launch",
+            "mainClass": "Assignment.PrimeNumbers",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "Assignment.Sort",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Box",
+            "request": "launch",
+            "mainClass": "Box",
+            "projectName": "java_dcb5429d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestLetterGrader",
+            "request": "launch",
+            "mainClass": "TestLetterGrader",
+            "projectName": "java_dcb5429d",
+            "args": [
+                "inpt.txt",
+                "output_latest.txt"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise5",
+            "request": "launch",
+            "mainClass": "Exercise5",
+            "projectName": "java_dcb5429d",
+            "args": [
+                "input.txt",
+                "output.txt"
+            ]
+        }
+    ]
+}
